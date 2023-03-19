@@ -34,7 +34,13 @@ CUANDO APRENDES A PROGRAMAR SIEMPRE VAS A TENER DUDAS Y AUNQUE EN INTERNET HAY T
 <br />  
 
 <br />
+
+## VER TAMBIEN
+>- [COMO APRENDER A PROGRAMAR]()
       
+<br />  
+
+<br />
 
 ## APOYA MI CONTENIDO
 - [PAYPAL](https://www.paypal.me/GABRIELpython)
