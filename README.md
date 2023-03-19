@@ -24,10 +24,17 @@ Cursos recomendados:
 >- QUIERES DESARROLLAR AI'S, APRENDE [MACHINE LEARNING](https://www.youtube.com/watch?v=lomJnbN5Wnk&list=PLat2DtY8K7YWG4QxUruT1IB_sHumOr1Si) Y [DEEP LEARNING](https://www.youtube.com/watch?v=ftlqZwb33SE&list=PLWzLQn_hxe6ZlC9-YMt3nN0Eo-ZpOJuXd)
 >- ETC
 
+<br />
+  
 
+<br />
 
 CUANDO APRENDES A PROGRAMAR SIEMPRE VAS A TENER DUDAS Y AUNQUE EN INTERNET HAY TODO, EN OCACINES ES DIFICIL ENCONTRARLO, POR ESO TE RECOMIENDO UNIRTE A MI [GRUPO](https://t.me/pythonprogramming2gr) DE TELEGRAM DONDE NOS APOYAMOS MUTUAMENTE 
    
+<br />
+  
+
+<br />
       
 
 ## APOYA EL CONTENIDO
