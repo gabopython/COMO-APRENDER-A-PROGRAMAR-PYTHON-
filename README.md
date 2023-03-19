@@ -32,7 +32,7 @@ APOYA EL CONTENIDO
 
 ![BINANCE](https://github.com/Gabriel-prog3/IMAGES/blob/main/Screenshot%202023-03-18%20185119.png)
 
-<img src="https://github.com/Gabriel-prog3/IMAGES/blob/main/Screenshot%202023-03-18%20185119.png" alt="drawing" width="200"/>
+<img src="https://github.com/Gabriel-prog3/IMAGES/blob/main/Screenshot%202023-03-18%20185119.png" alt="drawing" width="300"/>
 
 
 
