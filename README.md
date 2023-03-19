@@ -26,7 +26,6 @@ Cursos recomendados:
 
 <br />
   
-
 <br />
 
 CUANDO APRENDES A PROGRAMAR SIEMPRE VAS A TENER DUDAS Y AUNQUE EN INTERNET HAY TODO, EN OCACINES ES DIFICIL ENCONTRARLO, POR ESO TE RECOMIENDO UNIRTE A MI [GRUPO](https://t.me/pythonprogramming2gr) DE TELEGRAM DONDE NOS APOYAMOS MUTUAMENTE 
@@ -35,7 +34,7 @@ CUANDO APRENDES A PROGRAMAR SIEMPRE VAS A TENER DUDAS Y AUNQUE EN INTERNET HAY T
 
 <br />
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@python.programming2" data-unique-id="python.programming2" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@python.programming2?refer=creator_embed">@python.programming2</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+SÍGUEME EN [TIKTOK](https://www.tiktok.com/@python.programming2?is_from_webapp=1&sender_device=pc) Y EN [INSTAGRAM](https://www.instagram.com/gabrielrevelopython/)
 
 <br />  
 
