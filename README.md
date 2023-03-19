@@ -30,11 +30,6 @@ Cursos recomendados:
 
 CUANDO APRENDES A PROGRAMAR SIEMPRE VAS A TENER DUDAS Y AUNQUE EN INTERNET HAY TODO, EN OCACINES ES DIFICIL ENCONTRARLO, POR ESO TE RECOMIENDO UNIRTE A MI [GRUPO](https://t.me/pythonprogramming2gr) DE TELEGRAM DONDE NOS APOYAMOS MUTUAMENTE 
    
-<br />  
-
-<br />
-
-SÍGUEME EN [TIKTOK](https://www.tiktok.com/@python.programming2?is_from_webapp=1&sender_device=pc) Y EN [INSTAGRAM](https://www.instagram.com/gabrielrevelopython/)
 
 <br />  
 
@@ -53,6 +48,7 @@ BINANCE PAY ID
 ```
 446497605
 ```
+SÍGUEME EN [TIKTOK](https://www.tiktok.com/@python.programming2?is_from_webapp=1&sender_device=pc) Y EN [INSTAGRAM](https://www.instagram.com/gabrielrevelopython/)
 
 
 
