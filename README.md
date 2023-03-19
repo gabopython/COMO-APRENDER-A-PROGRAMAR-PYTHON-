@@ -29,7 +29,10 @@ Cursos recomendados:
 CUANDO APRENDES A PROGRAMAR SIEMPRE VAS A TENER DUDAS Y AUNQUE EN INTERNET HAY TODO, EN OCACINES ES DIFICIL ENCONTRARLO, POR ESO TE RECOMIENDO UNIRTE A MI [GRUPO](https://t.me/pythonprogramming2gr) DE TELEGRAM DONDE NOS APOYAMOS MUTUAMENTE 
 
 APOYA EL CONTENIDO
+
 ![BINANCE](https://github.com/Gabriel-prog3/IMAGES/blob/main/Screenshot%202023-03-18%20185119.png)
+
+<img src="https://github.com/Gabriel-prog3/IMAGES/blob/main/Screenshot%202023-03-18%20185119.png" alt="drawing" width="200"/>
 
 
 
